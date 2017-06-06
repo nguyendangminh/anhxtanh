@@ -1,0 +1,26 @@
+[
+	{
+		"intent": "xinchao",
+		"answer": "Chào bạn!"
+	},
+	{
+		"intent": "tambiet",
+		"answer": "Hẹn gặp lại!"
+	},
+	{
+		"intent": "taisao_troi_nang",
+		"answer": "Tại vì trời không có mây"
+	},
+	{
+		"intent": "taisao_troi_mua",
+		"answer": "Tại vì trời có mây"
+	},
+	{
+		"intent": "taisao_chauchau",
+		"answer": "Châu chấu dù bay ở trên trời hay đỗ dưới mặt đất vẫn duy trì tính hợp quần. Đây không phải là sở thích nhất thời, mà do thói quen đẻ trứng và nhu cầu về mặt sinh lý của chúng."
+	},
+	{
+		"intent": "tuongtu",
+		"answer": "Nắng mưa là bệnh của trời Tương tư là bệnh của tôi yêu nàng"
+	}
+]
